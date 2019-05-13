@@ -1723,6 +1723,10 @@ body {
 .cid-rjS03AEuws P {
   color: #767676;
 }
+.cid-rjS03AEuws .mbr-text,
+.cid-rjS03AEuws .mbr-section-btn {
+  color: #784729;
+}
 .cid-rka2wignqF {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -2314,7 +2318,7 @@ body {
   background-image: url("../../../assets/images/mbr-6-1920x1276.jpg");
 }
 .cid-rkanaIwPnq .mbr-section-subtitle {
-  color: #767676;
+  color: #170a94;
 }
 .cid-rkanaIwPnq .media-container-row {
   -webkit-flex-wrap: wrap;
