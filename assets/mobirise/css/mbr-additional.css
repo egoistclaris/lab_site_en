@@ -1,10 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster:400);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Satisfy:400);
-
-
-
-
+/* additional font */
+@import url(https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap);
+/* teacher block (cid-rqVeyyhOYi) */
+/* member block_1 (cid-rqVezBYlLy)*/
+/* member block_2 (cid-rqVeACpiRd)*/
+/* graduated member block_1 (cid-rqVeDEFvcj)*/
+/* graduated member block_2 (cid-rqVeEDmrWJ)*/
+/* graduated member block_3 (cid-rqVeFmCXpj)*/
 
 body {
   font-style: normal;
@@ -54,6 +58,41 @@ body {
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
+  font-size: 1.6rem;
+}
+.display-1pm {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 4.25rem;
+}
+.display-1pm > .mbr-iconfont {
+  font-size: 6.8rem;
+}
+.display-2pm {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 2.4rem;
+}
+.display-2pm > .mbr-iconfont {
+  font-size: 3.84rem;
+}
+.display-4pm {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1.4rem;
+}
+.display-4pm > .mbr-iconfont {
+  font-size: 2.24rem;
+}
+.display-5pm {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1.5rem;
+}
+.display-5pm > .mbr-iconfont {
+  font-size: 2.4rem;
+}
+.display-7pm {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1rem;
+}
+.display-7pm > .mbr-iconfont {
   font-size: 1.6rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
@@ -2282,8 +2321,8 @@ body {
 }
 .cid-rqVeyyhOYi .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 250px;
-  height: 250px;
+  width: 200px;
+  height: 200px;
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
@@ -2342,8 +2381,8 @@ body {
 }
 .cid-rqVezBYlLy .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
@@ -2401,8 +2440,8 @@ body {
 }
 .cid-rqVeACpiRd .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
@@ -2463,8 +2502,8 @@ body {
 }
 .cid-rqVeDEFvcj .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
@@ -2522,8 +2561,8 @@ body {
 }
 .cid-rqVeEDmrWJ .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
@@ -2581,8 +2620,8 @@ body {
 }
 .cid-rqVeFmCXpj .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
